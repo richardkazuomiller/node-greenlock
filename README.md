@@ -12,5 +12,5 @@ node-greenlock / node-letsencrypt
 Moved
 -----
 
-[node-greenlock](https://git.daplie.com/Daplie/greenlock) (previously named [node-letsencrypt](https://git.daplie.com/Daplie/node-greenlock))
+[node-greenlock](https://git.daplie.com/Daplie/node-greenlock) (previously named [node-letsencrypt](https://git.daplie.com/Daplie/node-greenlock))
 has moved to https://git.daplie.com/Daplie/node-greenlock
