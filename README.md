@@ -9,5 +9,8 @@ node-greenlock / node-letsencrypt
 | [greenlock-hapi](https://git.daplie.com/Daplie/greenlock-hapi)
 |
 
+Moved
+-----
+
 [node-greenlock](https://git.daplie.com/Daplie/greenlock) (previously named [node-letsencrypt](https://git.daplie.com/Daplie/node-greenlock))
 has moved to https://git.daplie.com/Daplie/node-greenlock
